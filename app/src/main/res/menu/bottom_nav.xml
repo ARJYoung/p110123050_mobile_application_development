@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/catergorisesFragment"
+        android:title="Catergorises"
+        android:icon="@drawable/baseline_catergorises_24"/>
+
+    <item android:id="@+id/my_newspaperFragment"
+        android:title="My Newspaper"
+        android:icon="@drawable/baseline_my_newspaper_24"/>
+
+    <item android:id="@+id/searchFragment"
+        android:title="Search"
+        android:icon="@drawable/outline_search_24"/>
+</menu>
